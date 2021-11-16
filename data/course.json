@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "62b86f53-8ba3-a940-a21b-218f933c32da"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to World Music",
+  "course_description": "This course explores the ways that music is both shaped by and gives shape to the cultural settings in which it is performed, through studying selected musical traditions from around the world. Specific case studies will be examined closely through listening, analysis, and hands-on instruction. The syllabus centers around weekly listening assignments and readings from a textbook with CDs, supplemented by hands-on workshops, lecture/demonstrations and concerts by master musicians from around the world.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.030",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
